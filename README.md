@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE | 4th Semester | Exploring the World of Code</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Tej Patel" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Tej Patel" /> -->
 </p>
 
 ---

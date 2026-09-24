@@ -1,62 +1,105 @@
 <h1 align="center">👋 Hi! I'm Tej Patel 💻</h1>
 
-<h3 align="center">B.Tech CSE | 5th Semester | Exploring the World of Code</h3>
+<h3 align="center">
+  B.Tech CSE | 5th Semester | Exploring the World of Code 🚀
+</h3>
 
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Tej Patel" /> -->
+  <a href="https://github.com/Tej007-tech">
+    <img src="https://komarev.com/ghpvc/?username=Tej007-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 🔥 About Me
-- 🎓 **5th Semester B.Tech CSE student**
-- 💻 Interested in **DSA, Databases, Full Stack Development**
-- 🌱 Improving **C, Python, SQL, DBMS, and DSA**
-- 🧩 Love solving logical & coding problems
+
+- 🎓 **5th Semester B.Tech CSE Student**
+- 💻 Interested in **DSA, DBMS, Full Stack Development & REST APIs**
+- 🌱 Currently improving my skills in **C, Python, SQL, DBMS & DSA**
+- 🧩 Love solving **logical, coding & problem-solving challenges**
+- 🚀 Building projects to strengthen my **development and programming skills**
+- 🎯 Preparing for **GATE CSE**
 
 ---
 
+## 🛠️ Technologies & Tools
+
 <table align="center">
 <tr>
-<td>
+<td align="center" width="50%">
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+### 💻 Programming Languages
 
-<h4 align="center">💻 Programming Languages</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🟦 C &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🟧 JavaScript &nbsp;•&nbsp; 🧵 HTML &nbsp;•&nbsp; 🎨 CSS
-</h3>
+🟦 **C**  
+☕ **Java**  
+🐍 **Python**  
+🟧 **JavaScript**  
+🧵 **HTML**  
+🎨 **CSS**
 
-<h4 align="center">⚛️ Frameworks & Libraries</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-⚛️ React &nbsp;•&nbsp; ▲ Next.js &nbsp;•&nbsp; 🛡️ NestJS &nbsp;•&nbsp; 🟩 Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 💨 Tailwind &nbsp;•&nbsp; 🧩 Bootstrap
-</h3>
+</td>
 
-<h4 align="center">🗄️ Databases</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🪣 MS SQL Server &nbsp;•&nbsp; 🍃 MongoDB
-</h3>
+<td align="center" width="50%">
 
-<h4 align="center">🧠 Core CS Subjects</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-📚 DSA &nbsp;•&nbsp; 🧵 OOP &nbsp;•&nbsp; 🛢️ DBMS
-</h3>
+### ⚛️ Frameworks & Libraries
 
-<h4 align="center">🔧 Tools</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🧰 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 📝 VS Code &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; ⚡ REST APIs
-</h3>
+⚛️ **React**  
+▲ **Next.js**  
+🛡️ **NestJS**  
+🟩 **Node.js**  
+🚀 **Express.js**  
+💨 **Tailwind CSS**  
+🧩 **Bootstrap**
 
-<h4 align="center">🧩 Additional Skills</h4>
-<p align="center">────────────</p>
-<h3 align="center">
-🧠 Logic &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Dev &nbsp;•&nbsp; 🛠️ Problem Solving
-</h3>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Databases
+
+🪣 **MS SQL Server**  
+🍃 **MongoDB**
+
+</td>
+
+<td align="center">
+
+### 🧠 Core CS
+
+📚 **DSA**  
+🧵 **OOP**  
+🛢️ **DBMS**  
+🌐 **Computer Networks**  
+⚙️ **Operating Systems**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔧 Tools
+
+🧰 **Git**  
+🐙 **GitHub**  
+📝 **VS Code**  
+🌐 **Web Development**  
+⚡ **REST APIs**
+
+</td>
+
+<td align="center">
+
+### 🧩 Additional Skills
+
+🧠 **Logical Thinking**  
+🔍 **Debugging**  
+🚀 **Clean Code**  
+📦 **API Development**  
+🛠️ **Problem Solving**
 
 </td>
 </tr>
@@ -64,15 +107,40 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
-<br clear="both">
+## 🚀 What I'm Currently Working On
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+- 📚 Improving **Data Structures & Algorithms**
+- 🧠 Strengthening **Core Computer Science Subjects**
+- 🌐 Building **Full Stack Web Applications**
+- ⚡ Developing **REST APIs with ASP.NET Core**
+- 🗄️ Working with **SQL Server & Databases**
+- 🎯 Preparing for **GATE CSE**
 
 ---
 
-<p align="center">Made with ❤️ by <strong>Tej Patel</strong></p>
+## 📌 Featured Areas
+
+```text
+💻 Programming
+   ├── C
+   ├── Java
+   ├── Python
+   └── JavaScript
+
+🧠 Computer Science
+   ├── DSA
+   ├── DBMS
+   ├── OOP
+   ├── Computer Networks
+   └── Operating Systems
+
+🌐 Development
+   ├── React
+   ├── Node.js
+   ├── Express.js
+   ├── ASP.NET Core
+   └── REST APIs
+
+🗄️ Databases
+   ├── MS SQL Server
+   └── MongoDB

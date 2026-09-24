@@ -9,7 +9,7 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **4th Semester B.Tech CSE student**
+- 🎓 **5th Semester B.Tech CSE student**
 - 💻 Interested in **DSA, Databases, Full Stack Development**
 - 🌱 Improving **C, Python, SQL, DBMS, and DSA**
 - 🧩 Love solving logical & coding problems

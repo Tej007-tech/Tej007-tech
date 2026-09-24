@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ### 🚀 Who Am I?
 
@@ -42,9 +42,9 @@
 
 </td>
 
-<td width="45%" align="center">
+<td width="0%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tej007-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Tej007-tech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/> -->
 
 </td>
 </tr>

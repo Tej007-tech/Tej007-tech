@@ -19,7 +19,7 @@
 - 🌱 Currently improving my skills in **C, Python, SQL, DBMS & DSA**
 - 🧩 Love solving **logical, coding & problem-solving challenges**
 - 🚀 Building projects to strengthen my **development and programming skills**
-- 🎯 Preparing for **GATE CSE**
+
 
 ---
 
